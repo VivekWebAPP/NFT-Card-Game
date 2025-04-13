@@ -41,5 +41,5 @@ Stacks used:
 <li>ethersJS</li>
 
 Hosted Link: 
-https://gryffindors-avax-game.netlify.app/
+https://nft-web3-card-game.netlify.app/
 
